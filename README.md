@@ -1,6 +1,6 @@
 👋 Greetings, fellow explorers of the digital frontier! I'm Dridi Abdallah, a passionate software engineer with an insatiable curiosity for all tech things .
 
-🚀 Embarking on this coding odyssey, I've woven my skills around languages like Python, C/C++, SQL, Bash, and the enchanting dance of Git.
+🚀 Embarking on this coding odyssey, I've woven my skills around languages like Python, C/C++, SQL, Java, and the enchanting dance of Git.
 
 🌐 Beyond the code, my interests are like constellations in the tech cosmos—spanning AI, and the captivating realm of IoT.
 
