@@ -1,0 +1,6 @@
+<svg width="900" height="52" viewBox="0 0 900 52" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="52" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="52" fill="#ffffff" opacity="0.7"/>
+  <text x="20" y="22" font-family="'Courier New', Courier, monospace" font-size="10" fill="#555555" letter-spacing="5">CERTIFICATIONS</text>
+  <text x="20" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#e6edf3" letter-spacing="1">The Record</text>
+</svg>

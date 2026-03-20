@@ -1,0 +1,27 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="grain2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" fill="#0d1117"/>
+  <rect width="900" height="200" fill="#ffffff" opacity="0.015" filter="url(#grain2)"/>
+
+  <!-- Large quote mark -->
+  <text x="30" y="120" font-family="Georgia, serif" font-size="120" fill="#1a1a1a" font-weight="700">"</text>
+
+  <!-- Quote text -->
+  <text x="72" y="72" font-family="Georgia, serif" font-size="15" fill="#c9d1d9" font-style="italic">Started on the offensive side. Not for the title, but because you can't understand a wall</text>
+  <text x="72" y="95" font-family="Georgia, serif" font-size="15" fill="#c9d1d9" font-style="italic">without knowing how it was built. I've since crossed over. Now I live in SOC operations</text>
+  <text x="72" y="118" font-family="Georgia, serif" font-size="15" fill="#c9d1d9" font-style="italic">and detection engineering — where the discipline is patience, and finding one signal inside</text>
+  <text x="72" y="141" font-family="Georgia, serif" font-size="15" fill="#c9d1d9" font-style="italic">a sea of noise. I move between disciplines because no single doctrine owns the truth</text>
+  <text x="72" y="164" font-family="Georgia, serif" font-size="15" fill="#c9d1d9" font-style="italic">about how complex things break.</text>
+
+  <!-- Bottom rule + attribution -->
+  <line x1="72" y1="182" x2="300" y2="182" stroke="#333333" stroke-width="1"/>
+  <text x="72" y="196" font-family="'Courier New', Courier, monospace" font-size="10" fill="#444444" letter-spacing="2">YOUR EXISTENCE IS A REBELLION THE MOMENT YOU REFUSE TO BE EXPLAINED BY THE SYSTEM THAT MADE YOU</text>
+</svg>

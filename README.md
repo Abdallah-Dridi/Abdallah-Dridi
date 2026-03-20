@@ -1,97 +1,30 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=18&duration=4500&pause=2500&color=C9D1D9&background=00000000&center=true&vCenter=true&width=780&height=70&lines=ABDALLAH+DRIDI;Security+Engineer+%2F+TEK-UP+University;%22every+system+has+a+logic.+find+it.%22;blue+team.+because+offense+teaches+only+half+the+truth.;to+understand+is+to+be+free." alt="Typing SVG" />
-
-</div>
+![Banner](banner.svg)
 
 <br>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   I don't study security because it's a career.                    │
-│   I study it because systems — technical, social, institutional —  │
-│   are the architecture of power. And I want to read them.          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+![Manifesto](manifesto.svg)
 
 <br>
 
----
+![Divider](divider.svg)
 
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="62%" valign="top">
-
-Started on the offensive side. Not for the title, but because you can't understand a wall without knowing how it was built. I've since crossed over. Now I work in **SOC operations and detection engineering**, where the discipline is patience, precision, and the ability to find one signal inside a sea of noise.
-
-I move between disciplines because no single doctrine owns the truth about how complex things break. What drives me isn't a track or a roadmap. It's the compulsion to understand **how things work at the seams** — the assumption that cracks under pressure, the logic no one bothered to document.
-
-> *Your existence is a rebellion the moment you refuse to be explained by the system that made you.*
-
-The logs don't lie. The attacker always leaves a trace. Finding it is an act of reading — and I intend to become fluent.
-
-</td>
-<td width="5%">&nbsp;</td>
-<td width="33%" valign="top">
+![The Record](section-record.svg)
 
 <br>
 
-```
-┌──────────────────────────┐
-│   CURRENT OPERATIONS     │
-├──────────────────────────┤
-│  SOC / Blue Team         │
-│  Log & Alert Analysis    │
-│  Detection Engineering   │
-│  Threat Intelligence     │
-│  Cloud Security (AWS)    │
-└──────────────────────────┘
-```
+![Certs](certs.svg)
 
-</td>
-</tr>
-</table>
+**In motion:** `AWS Security Specialty` &nbsp;·&nbsp; `CKA` &nbsp;·&nbsp; `HTB CDSA
 
 <br>
 
----
+![Divider](divider.svg)
 
 <br>
 
-## `◼` THE RECORD
-
-Credentials don't define the work. They mark where understanding was tested.
-
-<br>
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   eJPT    Junior Penetration Tester        INE Security      ✓    │
-│   RHCSA   Systems Administration           Red Hat           ✓    │
-│   AWS SAA Solutions Architect Associate    Amazon            ✓    │
-│                                                                    │
-│   IN MOTION                                                        │
-│   AWS Security Specialty   CKA   CyberDefenders Blue L1           │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
----
-
-<br>
-
-## `◼` THE ARSENAL
+![The Arsenal](section-arsenal.svg)
 
 <br>
 
@@ -128,79 +61,39 @@ Credentials don't define the work. They mark where understanding was tested.
 
 <br>
 
----
+![Divider](divider.svg)
 
 <br>
 
-## `◼` THE WORK
+![The Work](section-work.svg)
 
 <br>
 
-**[Orchestryx](https://github.com/Abdallah-Dridi)** &nbsp;`in progress`
+[![Orchestryx](project-orchestryx.svg)](https://github.com/Abdallah-Dridi)
 
-Secure cloud lab orchestration built for CTF events, security training programs, and enterprise cyber ranges. Provisions isolated AWS environments on demand — one template, infinite sandboxes. Built because I got tired of spinning up labs by hand.
+[![OBSEC](project-obsec.svg)](https://github.com/Abdallah-Dridi)
 
-`AWS` `Terraform` `Docker` `Kubernetes`
+[![OWASP Scanner](project-owasp.svg)](https://github.com/Abdallah-Dridi)
 
-<br>
-
-**[OBSEC](https://github.com/Abdallah-Dridi)**
-
-A decentralized ecosystem for people who believe privacy is infrastructure, not a feature. Encrypted P2P communication, anonymous value exchange. Built around one principle: the architecture shouldn't know who you are.
-
-`Cryptography` `P2P` `Privacy-by-Design`
+[![Minor Projects](project-minor.svg)](https://github.com/Abdallah-Dridi)
 
 <br>
 
-**[OWASP Top 10 Scanner](https://github.com/Abdallah-Dridi)**
-
-Automated web application security scanner that coordinates multiple tools — gospider, hakrawler, sqlmap — into one pipeline. Crawls, enumerates, injects, reports. The OWASP Top 10 is a framework. I wanted to operationalize it.
-
-`Python` `Bash` `sqlmap` `gospider` `hakrawler`
-
-<br>
-
-**[PatchStash](https://github.com/Abdallah-Dridi)**
-
-Software vulnerability tracker dashboard. Because CVEs are public data and most teams still track them in spreadsheets.
-
-`Vulnerability Management` `Dashboard`
-
-<br>
-
-**[WireCat](https://github.com/No-Braino/WireCat)**
-
-Network packet analyzer for digital forensics and protocol dissection. Every conversation leaves a trace — in packets, in timing, in headers. This is how I learned to read them.
-
-`JavaFX` `Forensics` `Protocol Analysis`
-
-<br>
-
----
-
-<br>
-
-## `◼` GITHUB
+![Divider](divider.svg)
 
 <br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=ffffff)
 
-<br>
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Dridi&theme=github-dark-blue&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=e6edf3&text_color=8b949e)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Dridi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2530&ring=888888&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
 <br>
 
----
+![Divider](divider.svg)
 
 <br>
 
@@ -210,9 +103,8 @@ Network packet analyzer for digital forensics and protocol dissection. Every con
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dridi.abdallah1@gmail.com)
 
-<br>
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=13&duration=8000&pause=4000&color=444444&background=00000000&center=true&vCenter=true&width=680&height=30&lines=to+understand+a+system+is+to+own+it.+to+own+it+is+to+transcend+it." alt="Footer" />
-
 </div>
+
+<br>
+
+![Footer](footer.svg)

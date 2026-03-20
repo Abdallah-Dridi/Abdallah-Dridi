@@ -1,0 +1,32 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="160" fill="#0d1117"/>
+
+  <!-- Three cert cards -->
+
+  <!-- eJPT -->
+  <rect x="0" y="0" width="276" height="155" fill="#111519" rx="2"/>
+  <rect x="0" y="0" width="276" height="3" fill="#ffffff" opacity="0.6"/>
+  <text x="20" y="35" font-family="'Courier New', Courier, monospace" font-size="11" fill="#555555" letter-spacing="3">INE SECURITY</text>
+  <text x="20" y="72" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#ffffff">eJPT</text>
+  <text x="20" y="96" font-family="Georgia, serif" font-size="12" fill="#666666" font-style="italic">Junior Penetration Tester</text>
+  <rect x="20" y="118" width="40" height="18" rx="1" fill="#1e2530"/>
+  <text x="40" y="131" font-family="'Courier New', Courier, monospace" font-size="10" fill="#88cc88" text-anchor="middle">✓ HELD</text>
+
+  <!-- RHCSA -->
+  <rect x="312" y="0" width="276" height="155" fill="#111519" rx="2"/>
+  <rect x="312" y="0" width="276" height="3" fill="#ffffff" opacity="0.6"/>
+  <text x="332" y="35" font-family="'Courier New', Courier, monospace" font-size="11" fill="#555555" letter-spacing="3">RED HAT</text>
+  <text x="332" y="72" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#ffffff">RHCSA</text>
+  <text x="332" y="96" font-family="Georgia, serif" font-size="12" fill="#666666" font-style="italic">Systems Administration</text>
+  <rect x="332" y="118" width="40" height="18" rx="1" fill="#1e2530"/>
+  <text x="352" y="131" font-family="'Courier New', Courier, monospace" font-size="10" fill="#88cc88" text-anchor="middle">✓ HELD</text>
+
+  <!-- AWS SAA -->
+  <rect x="624" y="0" width="276" height="155" fill="#111519" rx="2"/>
+  <rect x="624" y="0" width="276" height="3" fill="#ffffff" opacity="0.6"/>
+  <text x="644" y="35" font-family="'Courier New', Courier, monospace" font-size="11" fill="#555555" letter-spacing="3">AMAZON WEB SERVICES</text>
+  <text x="644" y="72" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#ffffff">AWS SAA</text>
+  <text x="644" y="96" font-family="Georgia, serif" font-size="12" fill="#666666" font-style="italic">Solutions Architect Associate</text>
+  <rect x="644" y="118" width="40" height="18" rx="1" fill="#1e2530"/>
+  <text x="664" y="131" font-family="'Courier New', Courier, monospace" font-size="10" fill="#88cc88" text-anchor="middle">✓ HELD</text>
+</svg>
