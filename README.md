@@ -1,24 +1,238 @@
-# 💫 About Me:
-### **Who am I**<br><br>🔭 **I’m currently working on**<br>Hands-on projects in software development, DevOps automation, and security engineering. I focus on building systems end-to-end and understanding their failure modes.<br><br>👯 **I’m looking to collaborate on**<br>Infrastructure automation, security-driven applications, cloud-native systems, and experimental engineering projects that push learning through real execution.<br><br>🤝 **I’m looking for help with**<br>Advanced system design patterns, secure architectures, and deeper exploitation techniques for understanding how systems break in practice.<br><br>🌱 **I’m currently learning**<br>Cloud architecture design, container orchestration, CI/CD pipelines, and security fundamentals from both the defensive and offensive angles.<br><br>💬 **Ask me about**<br>Coding, DevOps workflows, system design, cloud environments, security implementation, and practical approaches to breaking and securing systems.<br><br>⚡ **Fun fact**<br>I learn best by doing—building, breaking, fixing, and iterating. Always experimenting, always curious.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=19&duration=4500&pause=2500&color=C9D1D9&background=00000000&center=true&vCenter=true&width=780&height=80&lines=ABDALLAH+DRIDI;%E2%80%94+Security+Engineer+%2F+TEK-UP+University+%E2%80%94;%22every+system+has+a+logic.+find+it.%22;blue+team.+because+offense+only+teaches+half+the+truth.;to+understand+is+to+be+free." alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-dridi-93589a184) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dridi.abdallah1@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Dridi&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Dridi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdallah-Dridi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░                                                                     ░
+░     I don't study security because it's a career.                  ░
+░     I study it because systems — technical, social, institutional  ░
+░     — are the architecture of power. And I want to read them.      ░
+░                                                                     ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdallah-Dridi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="63%" valign="top">
+
+Started on the offensive side — not for ego, but because **you can't understand a wall without knowing how to climb it**. I've since crossed over. Now I live inside **SOC operations and detection engineering**, where the discipline is different: it demands patience, precision, and the ability to find a single signal inside an ocean of noise.
+
+I move between disciplines — red, blue, cloud, systems — because no single doctrine owns the truth about how complex things fail. What drives me isn't a title or a track. It's the compulsion to understand **how things actually work at the seams** — the logic underneath the surface, the assumption that breaks under pressure.
+
+> *"Your existence is a rebellion the moment you refuse to be explained by the system that made you."*
+
+The logs don't lie. The attacker always leaves a trace. Finding it is an act of reading — and I intend to become fluent.
+
+</td>
+<td width="4%">&nbsp;</td>
+<td width="33%" valign="top">
+
+<br>
+
+```
+╔══════════════════════════╗
+║   CURRENT OPERATIONS     ║
+╠══════════════════════════╣
+║ ▸ SOC / Blue Team        ║
+║ ▸ Log & Alert Analysis   ║
+║ ▸ Detection Engineering  ║
+║ ▸ Threat Intelligence    ║
+║ ▸ Cloud Security (AWS)   ║
+╚══════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## `◼` &nbsp; T H E &nbsp; R E C O R D
+
+*Credentials don't define the work. They mark where understanding was tested.*
+
+<br>
+
+```
+  ╔════════════════════════════════════════════════════════════════════╗
+  ║                                                                    ║
+  ║   eJPT   ─── Junior Penetration Tester   ── INE Security    [✓]   ║
+  ║   RHCSA  ─── Systems Administration      ── Red Hat         [✓]   ║
+  ║   AWS SAA ── Solutions Architect Assoc.  ── Amazon          [✓]   ║
+  ║                                                                    ║
+  ║   ── IN MOTION ──────────────────────────────────────────────     ║
+  ║   AWS Security Specialty  ·  CKA  ·  CyberDefenders Blue L1       ║
+  ║                                                                    ║
+  ╚════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+---
+
+<br>
+
+## `◼` &nbsp; T H E &nbsp; A R S E N A L
+
+*Not a stack. A vocabulary for talking to machines.*
+
+<br>
+
+**— Systems & Platforms —**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=white)
+
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+
+**— Security & Observability —**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=flat-square&logo=cisco&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-000000?style=flat-square&logo=tor-project&logoColor=white)
+
+**— Data —**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=flat-square&logo=neo4j&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## `◼` &nbsp; T H E &nbsp; A R C H I V E
+
+*Not showcases. Experiments. Evidence of thinking in progress.*
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" valign="top">
+
+**[WireCat](https://github.com/No-Braino/WireCat)**
+
+A network packet analyzer built for digital forensics and protocol dissection. Every conversation leaves a trace — in packets, in timing, in headers. This tool is how I learned to read them.
+
+`JavaFX` &nbsp;·&nbsp; Forensics &nbsp;·&nbsp; Protocol Analysis
+
+</td>
+<td width="50%" valign="top">
+
+**[Capture The Event](https://github.com/No-Braino/CaptureTheEvent)**
+
+Infrastructure for competitive hacking. I built the arena before I got good at the fight. There's a kind of honesty in that — knowing you don't understand something and building around it anyway.
+
+`Web` &nbsp;·&nbsp; CTF Platform
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Kooretna AI](https://github.com/No-Braino/KooretnaAI)**
+
+A real-time analytics chatbot over Groq's LLM API. What happens when you give a language model access to live data and ask it questions? I wanted to see where it failed. That's the interesting part.
+
+`Groq API` &nbsp;·&nbsp; LLM Integration &nbsp;·&nbsp; Real-time
+
+</td>
+<td width="50%" valign="top">
+
+**[Market++](https://github.com/No-Braino/Market-Plus-Plus)**
+
+A high-performance marketplace application in C++. Going back to bare metal. Memory management, pointer arithmetic, zero abstractions. The machine underneath the language.
+
+`C++` &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Performance
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## `◼` &nbsp; G I T H U B
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&ring_color=ffffff)
+
+<br>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Dridi&theme=github-dark-blue&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=e6edf3&text_color=8b949e)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+```
+— T R A N S M I T   T O —
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-dridi-93589a184)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dridi.abdallah1@gmail.com)
+
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=13&duration=8000&pause=4000&color=555555&background=00000000&center=true&vCenter=true&width=680&height=35&lines=to+understand+a+system+is+to+own+it.+to+own+it+is+to+transcend+it." alt="Footer quote" />
+
+<br>
+
+</div>
