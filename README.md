@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Dridi&theme=github_dark&hide_border=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=ffffff)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Dridi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2530&ring=888888&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
