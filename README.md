@@ -16,7 +16,7 @@
 
 ![Certs](certs.svg)
 
-**In motion:** `AWS Security Specialty` &nbsp;·&nbsp; `CKA` &nbsp;·&nbsp; `HTB CDSA
+**In motion:** `AWS Security Specialty` &nbsp;·&nbsp; `CKA` &nbsp;·&nbsp; `HTB CDSA`
 
 <br>
 
