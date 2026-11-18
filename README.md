@@ -1,52 +1,35 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">\
-  <img alt="Abdallah Dridi. Security engineer in training: SOC automation, cloud security, AI for defenders." src="./assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpg">
+  <img alt="Abdallah Dridi, security engineer in training. Still climbing. SOC automation, cloud security and AI-assisted analysis. Open to a 6-month internship from February 2027." src="./assets/banner-light.jpg" width="100%">
 </picture>
 
-Cybersecurity engineering student moving from offensive security to blue team work: SOC operations, detection engineering and the automation behind them.
+<br>
 
-Looking for a six-month internship (PFE) in France from **February 2027**: SOC automation, incident response, cloud security or practical AI security.
+Cybersecurity engineering student moving from offensive security to blue team work: SOC operations, detection engineering and the automation behind them.
 
 [abdallah-dridi.me](https://abdallah-dridi.me) · [Email](mailto:dridi.abdallah1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdallah-dridi-93589a184/)
 
 <br>
 
-### Works
+<img alt="The climb. 2022: TEK-UP University, Tunisia. August 2025: Amen Bank, Tunis. 2026: Hochschule Schmalkalden, Germany. June to September 2026: Amen Bank SOC, Tunis. 2026 to 2027: CESI École d’Ingénieurs, France. Next, February 2027: a 6-month internship." src="./assets/climb.jpg" width="100%">
 
-**_ForenMate_**\
-DFIR and AI agents, team project in progress\
-One case workspace for PCAPs, disk images and memory dumps. Isolated workers extract artifacts into searchable events, and AI agents correlate network, disk and memory evidence into timelines with traceable sources.\
-Medium: Python, Zeek, TShark, Volatility, The Sleuth Kit, LLM agents
+<br><br>
 
-**_Orchestryx_**\
-Cloud security\
-A cloud-native cyber range and CTF platform that provisions isolated environments asynchronously on AWS.\
-Medium: AWS, AWS CDK, FastAPI, PostgreSQL, SQS, Celery, Cognito, Docker
+<a href="https://abdallah-dridi.me/#works"><img alt="Works. Things I built to understand how they break." src="./assets/works-head.jpg" width="100%"></a>
+<a href="https://abdallah-dridi.me/#works"><img alt="ForenMate. DFIR and AI agents, team project in progress. One case workspace for PCAPs, disk images and memory dumps; isolated workers extract artifacts and AI agents correlate the evidence into timelines with traceable sources." src="./assets/work-forenmate.jpg" width="100%"></a>
+<a href="https://abdallah-dridi.me/#works"><img alt="Orchestryx. Cloud security. A cloud-native cyber range and CTF platform that provisions isolated environments asynchronously on AWS." src="./assets/work-orchestryx.jpg" width="100%"></a>
+<a href="https://abdallah-dridi.me/#works"><img alt="Latrodectus. Malware analysis of a real Windows loader: triage, static and sandbox analysis, IOCs, MITRE ATT&CK mapping and YARA." src="./assets/work-latrodectus.jpg" width="100%"></a>
+<a href="https://github.com/Abdallah-Dridi/WireCat"><img alt="WireCat. A real-time packet analyzer in Java: live capture, Ethernet, IP and TCP inspection, filters and export." src="./assets/work-wirecat.jpg" width="100%"></a>
+<a href="https://abdallah-dridi.me/#works"><img alt="Kooretna. A football statistics assistant built on the Groq API and a RAG pipeline fed by sports APIs." src="./assets/work-kooretna.jpg" width="100%"></a>
 
-**_Latrodectus_**\
-Malware analysis, academic\
-Triage, static and sandbox analysis of a real Windows loader, with IOCs, MITRE ATT&CK mapping, YARA and detection opportunities.\
-Medium: Detect It Easy, peframe, FLOSS, capa, YARA, Triage
+<br><br>
 
-**_WireCat_**\
-Network analysis\
-A real-time packet analyzer: live capture, Ethernet, IP and TCP inspection, protocol filters, export to .pcap, .csv and .txt.\
-Medium: Java, JavaFX, Pcap4J, Maven
+<img alt="Tickets. Every exam sat and every CTF entered: eJPT, SudoSec CTF team (2nd place at Securicon Tunisia), SickSociety CTF, CI/CD Goat, RHCSA, AWS Solutions Architect Associate, Google IT Automation with Python, the move from offense to the blue team, Securinets and IEEE TEK-UP." src="./assets/tickets.jpg" width="100%">
 
-**_Kooretna_**\
-AI, retrieval\
-A football statistics assistant built on the Groq API and a RAG pipeline fed by sports APIs.\
-Medium: Groq API, LangChain, RAG
+<br><br>
 
-**_SOC automation at Amen Bank_**\
-Internship, June to September 2026\
-Splunk SOAR playbooks for alert triage, threat-intel enrichment with MISP and VirusTotal, Gemini-assisted alert analysis.\
-Medium: Splunk SOAR, MISP, VirusTotal, Gemini API
+<a href="mailto:dridi.abdallah1@gmail.com"><img alt="Next: a six-month internship, from February 2027. Looking for a PFE in France in SOC automation, incident response, cloud security or practical AI security." src="./assets/summit.jpg" width="100%"></a>
 
 <br>
 
-### What I carry
-
-AWS Certified Solutions Architect – Associate · RHCSA · eJPT · Google IT Automation with Python
-
-Working toward: AWS Certified Security – Specialty · CKA · CyberDefenders Blue Team Level 1
+[Email me](mailto:dridi.abdallah1@gmail.com) · [Visit the site](https://abdallah-dridi.me) · [LinkedIn](https://www.linkedin.com/in/abdallah-dridi-93589a184/)
