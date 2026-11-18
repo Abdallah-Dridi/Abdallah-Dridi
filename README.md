@@ -13,6 +13,11 @@ Looking for a six-month internship (PFE) in France from **February 2027**: SOC a
 
 ### Works
 
+**_ForenMate_**\
+DFIR and AI agents, team project in progress\
+One case workspace for PCAPs, disk images and memory dumps. Isolated workers extract artifacts into searchable events, and AI agents correlate network, disk and memory evidence into timelines with traceable sources.\
+Medium: Python, Zeek, TShark, Volatility, The Sleuth Kit, LLM agents
+
 **_Orchestryx_**\
 Cloud security\
 A cloud-native cyber range and CTF platform that provisions isolated environments asynchronously on AWS.\
